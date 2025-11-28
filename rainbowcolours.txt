@@ -1,4 +1,5 @@
 Red is the first color of the rainbow.
 orange is the secound colour of the rainbow
 yellow is the third colour of the rainbow
+Green is the fourth colour of the rainbow
 
